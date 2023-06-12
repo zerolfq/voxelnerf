@@ -1,0 +1,3 @@
+# ninja log v5
+0	9006	1686208749201215482	/home/xyz/Github/nerf2mesh/raymarching/build/temp.linux-x86_64-cpython-39/home/xyz/Github/nerf2mesh/raymarching/src/bindings.o	aa8d58e33b4ebd4e
+5	23726	1686208795577690382	/home/xyz/Github/nerf2mesh/raymarching/build/temp.linux-x86_64-cpython-39/home/xyz/Github/nerf2mesh/raymarching/src/raymarching.o	4f72a7af8cd62684

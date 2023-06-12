@@ -1,0 +1,7 @@
+setup.py
+/home/xyz/Github/nerf2mesh/gridencoder/src/bindings.cpp
+/home/xyz/Github/nerf2mesh/gridencoder/src/gridencoder.cu
+gridencoder.egg-info/PKG-INFO
+gridencoder.egg-info/SOURCES.txt
+gridencoder.egg-info/dependency_links.txt
+gridencoder.egg-info/top_level.txt
